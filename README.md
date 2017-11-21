@@ -1,4 +1,6 @@
-#Alipay SDK
+=======
+# WHAlipaySDK
+尉合Alipay支付宝SDK
 支付宝 SDK，文件来自[官方](http://open.alipay.com/)，在此将其加入到 `CocoaPods` [私有库](https://git.coding.net/ihojin/BPSpecs.git)中，方便开发使用。
 
 ## 最新版本
@@ -26,3 +28,4 @@ pod 'AlipaySDK'
 
 ## 作者
 LiHaozhen, bp34@163.com
+
